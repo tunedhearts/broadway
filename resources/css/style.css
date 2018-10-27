@@ -1,4 +1,4 @@
-html {
+body {
   font-family: Helvetica, sans-serif;
   text-align: center;
 }
@@ -6,25 +6,30 @@ html {
 h1 {
   font-size: 70px;
   font-weight: bold;
+  text-align: center;
 }
 
 h2 {
   font-size: 32px;
   font-weight: bold;
+  text-align: center;
 }
 
 h3 {
   font-size: 23px;
   font-weight: bold;
+  text-align: center;
 }
 
 p {
   font-size: 14px;
+  text-align: center;
 }
 
 .banner {
   background-image: url(/Users/christiangarcia/Desktop/Projects/broadway/resources/images/head.png);
   color: white;
+  align-items: center;
 }
 
 .btmnav {
@@ -36,5 +41,13 @@ p {
   background-image: url(/Users/christiangarcia/Desktop/Projects/broadway/resources/images/head.png);
   font-size: 23px;
   font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+#copyright {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
   color: white;
 }
