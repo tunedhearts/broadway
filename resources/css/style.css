@@ -1,3 +1,40 @@
 html {
   font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.banner {
+  background-image: url(/Users/christiangarcia/Desktop/Projects/broadway/resources/images/head.png);
+  color: white;
+}
+
+.btmnav {
+  font-size: 18px;
+  color: white;
+}
+
+.newyork {
+  background-image: url(/Users/christiangarcia/Desktop/Projects/broadway/resources/images/head.png);
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
